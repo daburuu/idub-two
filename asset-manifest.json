@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/idub-two/static/css/main.e8201f68.css",
+    "main.css": "/idub-two/static/css/main.b1bdb551.css",
     "main.js": "/idub-two/static/js/main.3533b674.js",
     "static/media/DMSerifDisplay-Regular.woff": "/idub-two/static/media/DMSerifDisplay-Regular.6e91047555e8c9fa1eb7.woff",
     "static/media/DMSerifDisplay-Italic.woff": "/idub-two/static/media/DMSerifDisplay-Italic.9b7ae9459aa469e2842c.woff",
     "index.html": "/idub-two/index.html",
-    "main.e8201f68.css.map": "/idub-two/static/css/main.e8201f68.css.map",
+    "main.b1bdb551.css.map": "/idub-two/static/css/main.b1bdb551.css.map",
     "main.3533b674.js.map": "/idub-two/static/js/main.3533b674.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8201f68.css",
+    "static/css/main.b1bdb551.css",
     "static/js/main.3533b674.js"
   ]
 }
